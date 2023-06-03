@@ -19,7 +19,7 @@ const ServiceCardDisplay: React.FC<IServiceCardDisplay> = (props) => {
         >
 
             <h2 className="font-bold text-lg mb-2 z-10">{ props.title}</h2>
-            <p className="z-10">
+            <p className="z-10 text-left">
                 {props.children}
             </p>
 

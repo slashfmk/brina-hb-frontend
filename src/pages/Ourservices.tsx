@@ -33,7 +33,7 @@ const Ourservices: React.FC<any> = () => {
                     {
                         getServices.isLoading ? <div>loading ...</div> :
                             getServices.isError ? <div>Error</div> :
-                                getServices.data.data < 1 ? <h2 className='p-6 w-1/2 self-center bg-slate-100 font-bold text-slate-400'>You have no appointment yet!</h2> :
+                                getServices.data.data < 1 ? <h2 className='p-6 w-1/2 self-center bg-slate-100 font-bold text-slate-400'></h2> :
                                     getServices.data.data.map(
                                         (serviceItem: IService) => <ServiceCardDisplay
                                             key={serviceItem.service_id}
