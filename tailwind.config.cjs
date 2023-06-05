@@ -16,7 +16,7 @@ module.exports = {
         Raleway: ['Raleway', 'sans-serif'],
       }, //end of fontFamily
       backgroundImage: {
-        'haircut': "url('images/bgxl.jpg')"
+        'haircut': "url('./public/images/bgxl.jpg')"
       }
     },
   },

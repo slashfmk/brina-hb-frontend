@@ -15,7 +15,6 @@ This project is the frontend of a full stack application of a saloon
 <li>npm run build : build the production ready version</li>
 </ul>
 
-
 <p>final product url: 
 <a href="https://brinahairbeauty.netlify.app" target="_blank">https://brinahairbeauty.netlify.app</a></p>
 
