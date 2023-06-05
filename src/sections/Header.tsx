@@ -17,7 +17,9 @@ const Header = () => {
 
 
     return (
-        <header id="header" style={{background: `url('images/bgxl.jpg')`}} className="flex flex-col bg-black bg-haircut bg-center bg-cover h-96 text-slate-300">
+        <header id="header"
+            style={{ background: `url('images/bgxl.jpg')`, backgroundSize: 'cover', backgroundPosition: 'center' }}
+            className="flex flex-col bg-black h-96 text-slate-300">
 
             {/* menu responsive */}
 
