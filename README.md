@@ -10,7 +10,7 @@ This project is the frontend of a full stack application of a saloon
 <hr>
 <h2>Available commands: </h2>
 <ul>
-<li>Npm run dev : Run the project in dev mode</li>
+<li>npm run dev : Run the project in dev mode</li>
 <li>npm run preview : Preview the project</li>
 <li>npm run build : build the production ready version</li>
 </ul>
