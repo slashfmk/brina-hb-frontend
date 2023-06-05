@@ -19,4 +19,4 @@ This project is the frontend of a full stack application of a saloon
 
 <hr>
 <h2>Limitations</h2>
-<p>Unauthorized use of this is prohibited</p>
+<p>Unauthorized use of this project is prohibited</p>
