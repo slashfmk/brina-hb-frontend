@@ -1,5 +1,6 @@
-import axios from 'axios'
+import axios from 'axios';
 
-// export const axiosHttpClient = axios.create({ baseURL: 'http://localhost:5600/api/v1' });
+const production = `https://slashbk.shop/api/v1`;
+const local = `http://localhost:5600/api/v1`;
 
-export const axiosHttpClient = axios.create({baseURL: 'https://slashbk.shop/api/v1'}) ;
+export const axiosHttpClient = axios.create({baseURL: local}) ;
