@@ -1,7 +1,7 @@
 <h1>BHB | Frontend</h1>
 <hr>
 <p>
-This project is the frontend of a full stack application of a saloon
+This project is the frontend of a full stack application [Brina Hair Beauty]
 </p>
 
 <h2>Technologies used:</h2>
@@ -15,8 +15,8 @@ This project is the frontend of a full stack application of a saloon
 <li>npm run build : build the production ready version</li>
 </ul>
 
-<p>final product url: 
-<a href="https://brinahairbeauty.netlify.app" target="_blank">https://brinahairbeauty.netlify.app</a></p>
+<p>Url: 
+<a href="https://brinahairbeauty.store" target="_blank">https://brinahairbeauty.store</a></p>
 
 <img src="./public/images/git-preview.png" />
 

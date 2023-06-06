@@ -15,7 +15,6 @@ const Header = () => {
     const [isMenuOpen, setIsMenuOpen] = useState<boolean>(false);
 
 
-
     return (
         <header id="header"
             style={{ background: `url('images/bgxl.jpg')`, backgroundSize: 'cover', backgroundPosition: 'center' }}
